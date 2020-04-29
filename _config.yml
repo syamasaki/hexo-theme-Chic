@@ -1,12 +1,12 @@
 # Header
-navname: Sean Yamasaki's Official Website
+navname: Sean Yamasaki's Website
 
 # navigatior items
 nav:
   Posts: /archives
   Categories: /category
   Tags: /tag
-  About: /about
+  About: /2020/04/29/aboutme/
 
 # favicon
 favicon: /favicon.ico
@@ -25,7 +25,7 @@ avatar: /image/sean-profile_160.png
 links:
   Blog: /archives
   # Category:
-  # Tags: 
+  # Tags:
   # Link:
   # Resume:
   # Publish:
@@ -37,6 +37,9 @@ links:
   LinkedIn: https://www.linkedin.com/in/shohei-sean-yamasaki-16039b170/
   FaceBook: https://www.facebook.com/shohei.yamasaki
   Twitter: https://twitter.com/syamasaki_com
+  # LinkedIn:
+  # FaceBook:
+  # Twitter:
   # Skype:
   # CodeSandBox:
   # CodePen:
@@ -68,9 +71,9 @@ post_copyright_enable: true
 post_copyright_author_enable: true
 post_copyright_permalink_enable: true
 post_copyright_license_enable: true
-post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
+post_copyright_license_text: Copyright (c) 2020 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
 post_copyright_slogan_enable: true
-post_copyright_slogan_text: Do you believe in <strong>DESTINY</strong>?
+post_copyright_slogan_text: Love yourself, Be yourself, Trust yourself and Follow yourself.
 ## toc
 post_toc_enable: true
 
