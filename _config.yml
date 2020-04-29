@@ -1,5 +1,5 @@
 # Header
-navname: Bentham's Blog
+navname: Sean Yamasaki's Official Website
 
 # navigatior items
 nav:
@@ -12,11 +12,11 @@ nav:
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Sean Yamasaki
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
-avatar: /image/avatar.jpeg
+description: Crypto Currency / Software Engineer / Blockchain / Music / Rock / Trance / Johor Bahru / Kuala Lumpur / Singapore / Tokyo / Kyoto / Japan<br>*Love yourself, Be yourself, Trust yourself and Follow yourself*
+avatar: /image/sean-profile_160.png
 
 # main menu navigation
 ## links key words should not be changed.
@@ -33,23 +33,23 @@ links:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
-  # LinkedIn:
-  # FaceBook:
-  # Twitter:
+  # ZhiHu: https://www.zhihu.com/people/sirice
+  LinkedIn: https://www.linkedin.com/in/shohei-sean-yamasaki-16039b170/
+  FaceBook: https://www.facebook.com/shohei.yamasaki
+  Twitter: https://twitter.com/syamasaki_com
   # Skype:
   # CodeSandBox:
   # CodePen:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  Instagram: https://www.instagram.com/sean.yamasaki.007/
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/syamasaki
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
