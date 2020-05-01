@@ -4,9 +4,9 @@ navname: Sean Yamasaki's Website
 # navigatior items
 nav:
   Posts: /archives
-  Categories: /category
-  Tags: /tag
-  About: /2020/04/29/aboutme/
+  #Categories: /category
+  #Tags: /tag
+  AboutMe: /2020/04/29/aboutme/
 
 # favicon
 favicon: /favicon.ico
